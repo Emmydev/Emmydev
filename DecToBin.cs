@@ -14,8 +14,8 @@ namespace DecToBin
             {
                 Console.WriteLine("Please input Integer Value");
                 int dec = int.Parse(Console.ReadLine());
-                string number = Convert.ToString(dec, 2);
-                Console.WriteLine("Binary: "+number);
+                string binNumber = Convert.ToString(dec, 2);
+                Console.WriteLine("Binary: "+binNumber);
                 Console.Read();
 
             }

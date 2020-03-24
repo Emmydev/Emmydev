@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DecToBin\DecToBin\bin\Debug\DecToBin.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\DecToBin\DecToBin\bin\Debug\DecToBin.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\DecToBin\DecToBin\bin\Debug\DecToBin.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.pdb
